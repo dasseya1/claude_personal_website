@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background: url("/assets/claude-bg.png");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: helvetica;
+}
+
+p {
+    font-size: 22px;
+}
+
+input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+
+input[type="submit"] {
+    background: red;
+    color: white;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
