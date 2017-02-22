@@ -1,1 +1,1 @@
-# claude_personal_website
+# A single webpage for a Professional Marketer to collect contact info of potential clients.
